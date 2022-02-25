@@ -1,5 +1,6 @@
 # 1.解决方案
-迭代框架下两种用pre-trained LM的策略
+迭代框架下两种用pre-trained LM的策略.
+
 a) contrastive learning + kNN（参考[A Theory-Driven Self-Labeling Refinement Method for Contrastive Representation Learning](https://panzhous.github.io/assets/pdf/2021-NIPS-SLR.pdf) (Zhou, Xiong & Yuan, et al, NIPS 2021)）
 
 b) prompt-tuning
